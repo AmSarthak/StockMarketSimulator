@@ -1,0 +1,50 @@
+const stockData = [
+  { "ticker": "RELIANCE", "LTP": 2845 },
+  { "ticker": "TCS", "LTP": 3920 },
+  { "ticker": "HDFCBANK", "LTP": 1685 },
+  { "ticker": "ICICIBANK", "LTP": 1120 },
+  { "ticker": "INFY", "LTP": 1640 },
+  { "ticker": "HINDUNILVR", "LTP": 2550 },
+  { "ticker": "ITC", "LTP": 462 },
+  { "ticker": "LT", "LTP": 3580 },
+  { "ticker": "SBIN", "LTP": 835 },
+  { "ticker": "BHARTIARTL", "LTP": 1210 },
+
+  { "ticker": "KOTAKBANK", "LTP": 1780 },
+  { "ticker": "AXISBANK", "LTP": 1145 },
+  { "ticker": "ASIANPAINT", "LTP": 3180 },
+  { "ticker": "HCLTECH", "LTP": 1545 },
+  { "ticker": "MARUTI", "LTP": 11250 },
+  { "ticker": "SUNPHARMA", "LTP": 1420 },
+  { "ticker": "TITAN", "LTP": 3360 },
+  { "ticker": "ULTRACEMCO", "LTP": 10280 },
+  { "ticker": "WIPRO", "LTP": 525 },
+  { "ticker": "NTPC", "LTP": 345 },
+
+  { "ticker": "POWERGRID", "LTP": 295 },
+  { "ticker": "ADANIENT", "LTP": 3180 },
+  { "ticker": "ADANIPORTS", "LTP": 1425 },
+  { "ticker": "BAJFINANCE", "LTP": 7250 },
+  { "ticker": "BAJAJFINSV", "LTP": 1620 },
+  { "ticker": "BPCL", "LTP": 475 },
+  { "ticker": "COALINDIA", "LTP": 485 },
+  { "ticker": "DRREDDY", "LTP": 6120 },
+  { "ticker": "EICHERMOT", "LTP": 4120 },
+  { "ticker": "GRASIM", "LTP": 2240 },
+
+  { "ticker": "HEROMOTOCO", "LTP": 4680 },
+  { "ticker": "HINDALCO", "LTP": 635 },
+  { "ticker": "JSWSTEEL", "LTP": 910 },
+  { "ticker": "M&M", "LTP": 1920 },
+  { "ticker": "NESTLEIND", "LTP": 24350 },
+  { "ticker": "ONGC", "LTP": 275 },
+  { "ticker": "SBILIFE", "LTP": 1510 },
+  { "ticker": "TATASTEEL", "LTP": 148 },
+  { "ticker": "TECHM", "LTP": 1325 },
+  { "ticker": "UPL", "LTP": 565 },
+
+  { "ticker": "DIVISLAB", "LTP": 3880 },
+  { "ticker": "APOLLOHOSP", "LTP": 6420 }
+]
+
+module.exports = stockData
