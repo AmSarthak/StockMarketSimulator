@@ -1,4 +1,8 @@
+
+
 # 📈 Real-Time Stock Market Simulator (WebSocket + REST)
+
+![ScreenRecording2025-12-23at7 09 16PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/97048c18-3170-461e-b95e-826bdcdfd335)
 
 This project is a **real-time stock price simulation backend** built with **Node.js**, **Express**, and **WebSockets**.
 
